@@ -1,0 +1,16 @@
+body {
+    text-align: center;
+
+
+}
+
+.puzzleWord {
+    justify-content: center;
+    display:flex;
+    gap: 4px
+}
+
+
+.App {
+    text-align: center;
+}
